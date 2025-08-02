@@ -1,4 +1,4 @@
-package cache;
+package net.typicartist.cache;
 
 public interface ICache<K, V> {
     V get(K key);

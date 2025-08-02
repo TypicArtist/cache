@@ -1,4 +1,4 @@
-package cache;
+package net.typicartist.cache;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
